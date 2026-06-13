@@ -1,8 +1,0 @@
-{
-    "name": "LastLogin",
-    "slug": "lastlogin",
-    "version": "1.0.0",
-    "author": "Nexpell",
-    "description": "Recent user login activity",
-    "api_version": 1
-}
